@@ -5,4 +5,4 @@ client-movie-recommender/package-lock.json
 
 # backend
 
-python-backend-mrs/venv
+flask-server/flask-server
