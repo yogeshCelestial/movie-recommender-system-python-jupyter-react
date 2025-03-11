@@ -6,3 +6,4 @@ client-movie-recommender/package-lock.json
 # backend
 
 flask-server/flask-server
+__pycache__
